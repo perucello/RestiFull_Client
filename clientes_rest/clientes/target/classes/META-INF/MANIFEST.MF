@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: clientes
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: luizh
+Implementation-Vendor-Id: br.com.lhdev
+Build-Jdk: 1.8.0_241
+Implementation-URL: http://projects.spring.io/spring-boot/clientes/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
